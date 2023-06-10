@@ -40,6 +40,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="60dp"
         android:text="Show More"
+        android:textColor="@color/primary"
         app:layout_constraintStart_toStartOf="@+id/button2"
         app:layout_constraintTop_toBottomOf="@+id/button2" />
 
